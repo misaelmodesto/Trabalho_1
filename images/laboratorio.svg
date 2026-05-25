@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="260" viewBox="0 0 420 260" role="img" aria-labelledby="title">
+  <title id="title">Laboratorio de ciencias</title>
+  <rect width="420" height="260" fill="#f5fbff"/>
+  <rect x="40" y="170" width="340" height="32" fill="#5d7c8a"/>
+  <rect x="80" y="65" width="65" height="105" fill="#d7edf5"/>
+  <rect x="180" y="95" width="45" height="75" fill="#f6d365"/>
+  <rect x="270" y="50" width="55" height="120" fill="#a7d8b8"/>
+  <circle cx="112" cy="55" r="20" fill="#24443e"/>
+  <circle cx="292" cy="40" r="20" fill="#24443e"/>
+</svg>

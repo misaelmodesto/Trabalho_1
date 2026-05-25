@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="260" viewBox="0 0 420 260" role="img" aria-labelledby="title">
+  <title id="title">Horta pedagogica</title>
+  <rect width="420" height="260" fill="#eef6f0"/>
+  <rect y="180" width="420" height="80" fill="#8f5e3b"/>
+  <path d="M90 185 C70 150 95 120 120 155 C145 120 170 150 150 185 Z" fill="#2f7d5a"/>
+  <path d="M205 185 C185 145 220 115 245 155 C270 120 300 150 275 185 Z" fill="#2f7d5a"/>
+  <path d="M310 185 C295 150 320 125 345 158 C370 130 390 158 372 185 Z" fill="#2f7d5a"/>
+</svg>

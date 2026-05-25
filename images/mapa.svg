@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title">
+  <title id="title">Mapa ilustrado do Instituto Aurora</title>
+  <rect width="900" height="360" fill="#f5f7fb"/>
+  <rect x="0" y="145" width="900" height="70" fill="#d5dde5"/>
+  <rect x="395" y="0" width="70" height="360" fill="#d5dde5"/>
+  <rect x="540" y="60" width="210" height="115" fill="#a7d8b8"/>
+  <rect x="150" y="210" width="180" height="95" fill="#f2c94c"/>
+  <circle cx="430" cy="180" r="26" fill="#d66853"/>
+  <text x="475" y="188" font-family="Arial, sans-serif" font-size="28" fill="#24443e">Instituto Aurora</text>
+</svg>

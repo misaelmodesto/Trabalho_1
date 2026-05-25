@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">Logotipo do Instituto Aurora</title>
+  <rect width="120" height="120" fill="#f7f3ea"/>
+  <circle cx="60" cy="60" r="42" fill="#1d5f53"/>
+  <path d="M60 22 L72 52 L104 52 L78 70 L88 100 L60 82 L32 100 L42 70 L16 52 L48 52 Z" fill="#f2c94c"/>
+  <circle cx="60" cy="60" r="14" fill="#ffffff"/>
+</svg>

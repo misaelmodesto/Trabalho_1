@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title">
+  <title id="title">Campus do Instituto Aurora</title>
+  <rect width="900" height="360" fill="#e9f4f8"/>
+  <rect y="250" width="900" height="110" fill="#a7d8b8"/>
+  <rect x="170" y="90" width="560" height="170" fill="#f9f6ee"/>
+  <polygon points="150,90 450,30 750,90" fill="#1d5f53"/>
+  <rect x="415" y="175" width="70" height="85" fill="#8f5e3b"/>
+  <rect x="230" y="130" width="80" height="60" fill="#88b7d5"/>
+  <rect x="590" y="130" width="80" height="60" fill="#88b7d5"/>
+  <circle cx="95" cy="240" r="38" fill="#2f7d5a"/>
+  <circle cx="795" cy="240" r="38" fill="#2f7d5a"/>
+</svg>
